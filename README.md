@@ -25,18 +25,12 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-## 📈 Estadísticas de GitHub
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guillo343&show_icons=true&theme=radical" width="500" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guillo343&layout=compact&theme=radical" width="500" height="200">
-</div>
 
 ## 📫 Cómo contactarme
 
 
 - **Email**: [Guillemunozi2003@gmail.com](mailto:Guillemunozi2003@gmail.com)
-- **LinkedIn**: [linkedin.com/in/luisfer86](https://www.linkedin.com/in//)
+- **LinkedIn**: [linkedin.com/in/](https://www.linkedin.com/in//)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Guillemunozi2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in//)
